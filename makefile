@@ -21,4 +21,4 @@ threadServer.o: threadServer.c
 .PHONY: all clean
 
 clean :
-	rm -f *.o client server
+	rm -f *.o client originalserver threadServer
