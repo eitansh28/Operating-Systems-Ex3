@@ -17,5 +17,5 @@ make all
 4. next open a several separate terminal and run the following command on each terminal:  
 
 ```
-./client
+./client 127.0.0.1
 ```  
